@@ -1,0 +1,7 @@
+D:\Visual Studio\Acticity_Lab_08\bin\Debug\Acticity_Lab_08.exe.config
+D:\Visual Studio\Acticity_Lab_08\bin\Debug\Acticity_Lab_08.exe
+D:\Visual Studio\Acticity_Lab_08\bin\Debug\Acticity_Lab_08.pdb
+D:\Visual Studio\Acticity_Lab_08\obj\Debug\Acticity_Lab_08.csproj.AssemblyReference.cache
+D:\Visual Studio\Acticity_Lab_08\obj\Debug\Acticity_Lab_08.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Acticity_Lab_08\obj\Debug\Acticity_Lab_08.exe
+D:\Visual Studio\Acticity_Lab_08\obj\Debug\Acticity_Lab_08.pdb
